@@ -1,8 +1,10 @@
 Olá 
 
-sou a beka 
+sou a beka tenho de 16 anos
 
--gosto de *GR*
+-gosto de comer
+
+
 
 <!---
 rebecapinanez/rebecapinanez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
